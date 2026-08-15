@@ -97,18 +97,7 @@ A retrieval-augmented generation system for querying and analysing large financi
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-1706&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-1706&layout=compact&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-1706&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -118,13 +107,7 @@ A retrieval-augmented generation system for querying and analysing large financi
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva-1706&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 

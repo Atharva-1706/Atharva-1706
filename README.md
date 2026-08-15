@@ -1,38 +1,167 @@
 # Hi 👋, I'm Atharva
 
-### Instrumentation Engineer that does coding too
+### Instrumentation Engineer who does coding too ⚡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharva-1706&label=Profile views&color=0e75b6&style=flat" alt="Atharva-1706" /> </p>
+I'm an **Instrumentation Engineering student** interested in **Embedded Systems, RF & Antenna Design, Machine Learning and Software Development**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Atharva-1706" alt="Atharva-1706" /></a> </p>
+I like building things that sit somewhere between **hardware and software** — from embedded systems and sensors to ML-powered applications and RF simulations.
 
-- 🌱 I'm currently learning **Embedded Systems**
-
-- 💬 Ask me about **Embedded Systems**
-
-- 📫 How to reach me **bhadouriaatharvasingh@gmail.com**
-
-- ⚡ Fun fact **i don't like anything**
-
-- 👨‍💻 All of my projects are available at **[https://porto-six-psi.vercel.app/](https://porto-six-psi.vercel.app/)**
-
-- 📝 I regularly write articles on **[https://porto-six-psi.vercel.app/](https://porto-six-psi.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Jb1WUmYZgF6mLLDgyucpMuCD-XsG44nH/view?usp=sharing](https://drive.google.com/file/d/1Jb1WUmYZgF6mLLDgyucpMuCD-XsG44nH/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Atharva-1706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Atharva-1706" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-singh-bhadouria-381252350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-singh-bhadouria-381252350/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_atharv.aaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_atharv.aaa/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Atharva-1706&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Atharva-1706?label=Followers&style=flat" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/repos/Atharva-1706?label=Repositories&style=flat" alt="GitHub repositories" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharva-1706&show_icons=true&locale=en&layout=compact" alt="Atharva-1706" /></p>
+## 🚀 What I'm working on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-1706&show_icons=true&locale=en" alt="Atharva-1706" /></p>
+* 🌱 Currently learning **Embedded Systems**
+* 📡 Exploring **RF, Antennas & Phased Arrays**
+* 🤖 Building projects involving **Machine Learning & AI**
+* 🔧 Working with **microcontrollers, sensors and IoT**
+* 💻 Developing software alongside my engineering projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-1706&" alt="Atharva-1706" /></p>
+---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,typescript" />
+</p>
+
+### Embedded & Hardware
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+</p>
+
+### AI / ML & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" />
+</p>
+
+### Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,django,flask,html,css" />
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,linux" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 📡 Smart Phased Array Antenna
+
+A simulation and visualization platform for **phased-array antennas**, exploring array factors, beam steering, radiation patterns and antenna parameters.
+
+**Tech:** Python · NumPy · SciPy · Matplotlib · Streamlit · CST Studio Suite
+
+### 🚧 RouteSentry
+
+An IoT-based system for **road bump detection and mapping**, using sensor data and GPS to identify road anomalies and visualize them geographically.
+
+**Tech:** ESP32 · MPU6050 · NEO-6M GPS · Firebase · React · Google Maps API
+
+### 🔎 QuerySpark
+
+A natural-language interface for querying datasets by converting user queries into executable data-processing operations.
+
+**Tech:** Python · FastAPI · PySpark · NLP
+
+### 🧠 FIRE RAG
+
+A retrieval-augmented generation system for querying and analysing large financial documents using semantic search and embeddings.
+
+**Tech:** Python · Sentence Transformers · Hugging Face · Vector Embeddings
+
+<p align="center">
+  <a href="https://porto-six-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-0e75b6?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-1706&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-1706&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-1706&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-1706&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva-1706&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharva-1706/Atharva-1706/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+## ✍️ Articles & Portfolio
+
+* 🌐 **Portfolio:** https://porto-six-psi.vercel.app/
+* 📝 **Articles:** https://porto-six-psi.vercel.app/
+* 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1Jb1WUmYZgF6mLLDgyucpMuCD-XsG44nH/view?usp=sharing)
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://github.com/Atharva-1706">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/atharva-singh-bhadouria-381252350/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_atharv.aaa/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
+  </a>
+</p>
+
+📫 **Email:** [bhadouriaatharvasingh@gmail.com](mailto:bhadouriaatharvasingh@gmail.com)
+
+---
+
+<p align="center">
+  <i>⚡ Engineering hardware. Writing software. Breaking things. Building them again.</i>
+</p>

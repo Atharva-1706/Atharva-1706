@@ -111,7 +111,6 @@ A retrieval-augmented generation system for querying and analysing large financi
 ## ✍️ Articles & Portfolio
 
 * 🌐 **Portfolio:** [Click Me 😋](https://singhatharva.netlify.app/)
-* 📝 **Articles:** https://porto-six-psi.vercel.app/
 * 📄 **Resume:** [View my experience](https://drive.google.com/file/d/14mSvuusDuXFlQNWLUsHBO-B8-bC2Tl9l)
 
 ---

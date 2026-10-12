@@ -112,7 +112,7 @@ A retrieval-augmented generation system for querying and analysing large financi
 
 * 🌐 **Portfolio:** https://porto-six-psi.vercel.app/
 * 📝 **Articles:** https://porto-six-psi.vercel.app/
-* 📄 **Resume:** [View my experience](https://drive.google.com/file/d/1Jb1WUmYZgF6mLLDgyucpMuCD-XsG44nH/view?usp=sharing)
+* 📄 **Resume:** [View my experience](https://drive.google.com/file/d/14mSvuusDuXFlQNWLUsHBO-B8-bC2Tl9l)
 
 ---
 
